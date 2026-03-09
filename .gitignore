@@ -1,0 +1,9 @@
+node_modules/
+.env
+data/
+recordings/
+notes/
+*.wav
+*.webm
+*.mp3
+*.ogg
