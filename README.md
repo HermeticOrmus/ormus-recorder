@@ -1,5 +1,21 @@
-# Recorder
+<p align="center">
+  <img src="https://ormus.solutions/mascot/chain_braces_to_swan.gif" alt="Recorder" width="128" style="image-rendering: pixelated;" />
+</p>
 
+<h1 align="center">Recorder</h1>
+
+<p align="center">
+  <em>Voice recorder PWA with local Whisper transcription</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/HermeticOrmus/ormus-recorder/stargazers"><img src="https://img.shields.io/github/stars/HermeticOrmus/ormus-recorder?style=flat-square&color=aa8142" alt="Stars" /></a>
+  <a href="https://github.com/HermeticOrmus/ormus-recorder/blob/main/LICENSE"><img src="https://img.shields.io/github/license/HermeticOrmus/ormus-recorder?style=flat-square&color=aa8142" alt="License" /></a>
+  <a href="https://github.com/HermeticOrmus/ormus-recorder/commits"><img src="https://img.shields.io/github/last-commit/HermeticOrmus/ormus-recorder?style=flat-square&color=aa8142" alt="Last Commit" /></a>
+  <img src="https://img.shields.io/badge/Claude_Code-aa8142?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+</p>
+
+---
 Voice recorder PWA with local Whisper transcription. Record voice messages or quick notes from your phone, transcribe them locally with Whisper, and optionally relay them to other machines via SSH.
 
 ## Features
