@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ormus.solutions/mascot/golden_swan.gif" alt="Recorder" width="128" style="image-rendering: pixelated;" />
+  <img src="https://ormus.solutions/mascot/pixellab_liquid_to_tags.gif" alt="Recorder" width="128" style="image-rendering: pixelated;" />
 </p>
 
 <h1 align="center">Recorder</h1>
